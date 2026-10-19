@@ -4,6 +4,8 @@
 
 A hotkey scratchpad for throwaway notes that evaluates math inline and auto-saves every tab.
 
+> 🆓 A free, open-source **Antinote alternative** for macOS 14+. Native Swift, no accounts, no subscriptions, MIT licensed.
+
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -78,6 +80,10 @@ PopScratchNotes asks for no privacy permissions. In particular, it does **not** 
 PopScratchNotes is free and always will be. If it saves you some time, you can help keep the work going:
 
 [Support Or (Leo) Davidai ❤️](https://ko-fi.com/leodavidai)
+
+## More free Mac apps
+
+PopScratchNotes is one of [60 free, open-source Mac utilities](https://github.com/turhe123/mac-apps) built the same way: native Swift, no accounts, no telemetry. Browse the full gallery at [turhe123.github.io/mac-apps](https://turhe123.github.io/mac-apps/).
 
 ## License
 
