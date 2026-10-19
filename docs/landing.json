@@ -1,0 +1,60 @@
+{
+  "seo_title": "Hotkey scratchpad with inline math",
+  "seo_description": "PopScratchNotes is a free, open-source macOS menu bar scratchpad. Press a hotkey, jot a note, and see math results inline. Auto-saved, offline, no account.",
+  "hero_title_line1": "Jot it down.",
+  "hero_title_accent": "Get back to work.",
+  "hero_sub": "Press Control-Option-Space to open a floating scratchpad, type a note, and end a line with = to see the answer. Every page is saved automatically.",
+  "features_title": "Small panel, quick notes.",
+  "features_sub": "Everything sits between the clipboard and a full notes app, and nothing leaves your Mac.",
+  "features": [
+    {
+      "icon": "keyboard",
+      "title": "Global hotkey toggle",
+      "desc": "Control-Option-Space shows or hides the panel from any app. You can record a different shortcut in Settings, and it warns you if another app already uses it."
+    },
+    {
+      "icon": "text",
+      "title": "Inline math results",
+      "desc": "End a line with = and the result appears in a muted color beside it. It handles + - * /, parentheses and decimals; percent and units are not supported."
+    },
+    {
+      "icon": "clipboard",
+      "title": "Up to 20 pages",
+      "desc": "Switch between numbered tabs with Command-1 to 9, add one with Command-T, and copy a whole page with one click."
+    },
+    {
+      "icon": "clock",
+      "title": "Auto-save on every change",
+      "desc": "Pages are written to disk half a second after you stop typing, when the panel hides and when you quit. Escape hides the panel without losing anything."
+    },
+    {
+      "icon": "window",
+      "title": "Pin, resize, adjust",
+      "desc": "Pin a page to float above other windows, resize the panel, and set font size, monospaced text and opacity. It follows light and dark mode."
+    },
+    {
+      "icon": "lock",
+      "title": "Offline and private",
+      "desc": "No account, no server and no network connections. Your notes live in a single JSON file on your Mac."
+    }
+  ],
+  "permissions_step": "No special permissions are required; if you enable Launch at login, macOS may ask you to approve it under System Settings > General > Login Items.",
+  "faq": [
+    {
+      "q": "Is PopScratchNotes really free and open source?",
+      "a": "Yes. It is released under the MIT license, with no account, ads or paid tier. If it saves you time, there is an optional Support button that opens a Ko-fi page."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "None. The hotkey uses a system API that needs no Accessibility or Screen Recording access, and the app makes no network connections. Only the optional Launch at login setting may prompt you to approve it in Login Items."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "In a JSON file at ~/Library/Application Support/PopScratchNotes/pages.json on your Mac. If that file ever cannot be read, it is kept as a timestamped pages-corrupt copy and you start with a blank page."
+    },
+    {
+      "q": "Why isn't the app notarized?",
+      "a": "Notarization requires a paid Apple Developer account. Right-click the app and choose Open once to launch it, or build it yourself from source with Xcode."
+    }
+  ]
+}

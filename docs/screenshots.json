@@ -1,0 +1,5 @@
+[
+  {"file":"01-scratchpad-math.png","caption":"The floating scratchpad with three pages, where lines ending in \"=\" show their results inline in a muted color.","alt":"PopScratchNotes floating panel with notes and inline math results"},
+  {"file":"02-settings.png","caption":"Settings for the global shortcut, font size, monospaced font, panel opacity, close-on-focus-loss and launch at login.","alt":"PopScratchNotes Settings window"},
+  {"file":"03-menu-bar.png","caption":"The menu bar menu, with options to show the scratchpad, add a page, jump to a page, open Settings or donate.","alt":"PopScratchNotes menu bar menu"}
+]

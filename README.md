@@ -1,5 +1,7 @@
 # PopScratchNotes
 
+**🌐 Website:** [turhe123.github.io/pop-scratch-notes](https://turhe123.github.io/pop-scratch-notes/)
+
 A hotkey scratchpad for throwaway notes that evaluates math inline and auto-saves every tab.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -27,7 +29,17 @@ PopScratchNotes is a free, open-source, 100% native, backend-free alternative to
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-scratchpad-math.png" alt="PopScratchNotes floating panel with notes and inline math results" width="720"></p>
+
+<p align="center"><em>The floating scratchpad with three pages, where lines ending in &quot;=&quot; show their results inline in a muted color.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="PopScratchNotes Settings window" width="560"></p>
+
+<p align="center"><em>Settings for the global shortcut, font size, monospaced font, panel opacity, close-on-focus-loss and launch at login.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-menu-bar.png" alt="PopScratchNotes menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu, with options to show the scratchpad, add a page, jump to a page, open Settings or donate.</em></p>
 
 ## Install
 
